@@ -1,0 +1,2 @@
+# my-awesome-script
+NGSpractice
